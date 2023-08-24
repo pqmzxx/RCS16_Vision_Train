@@ -90,7 +90,8 @@
 #### 徐安妮
  ![text](Anni_Xu/img/mlp1.PNG)
 
-
+#### 夏星
+![text](Xing_Xia/img/numout.png)
 ### 第五节 深度学习--CIFAR10分类任务实战
 ***必做** 效果图片按训练集准确率，测试集准确率，训练集损失排一排*
 
